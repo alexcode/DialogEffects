@@ -1,0 +1,33 @@
+{
+  "name": "dialog-fx",
+  "homepage": "https://github.com/alexcode/DialogEffects",
+  "authors": [
+    "Alex Couturon"
+  ],
+  "description": "A bower package of the lib https://github.com/codrops/DialogEffects",
+  "main": [
+    "js/dialogFx.js",
+    "css/dialog.css"
+  ],
+  "moduleType": [],
+  "keywords": [
+    "dialog"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:alexcode/DialogEffects.git"
+  },
+  "dependencies": {
+    "classie": "^1.0.1",
+    "Snap.svg": "snap.svg#^0.4.1",
+    "Modernizr": "https://modernizr.com/download/?cssanimations-domprefixes-prefixed-setclasses-shiv-testallprops-testprop"
+  }
+}
